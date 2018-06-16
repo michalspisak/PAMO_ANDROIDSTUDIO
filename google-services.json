@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "614845026135",
+    "firebase_url": "https://aplikacja-1ba8a.firebaseio.com",
+    "project_id": "aplikacja-1ba8a",
+    "storage_bucket": "aplikacja-1ba8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614845026135:android:f83f81c32db5d0f1",
+        "android_client_info": {
+          "package_name": "com.example.michalspisak.aplikacja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614845026135-a74g5gmk4acimbrbbgedrrmkcl0a3efo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "614845026135-a74g5gmk4acimbrbbgedrrmkcl0a3efo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeO9xEy9FsggwrkVrGvB3GpsZHY9u4A3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
